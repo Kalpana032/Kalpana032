@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+clg =input("Enter your college name: ")
+course = input("Enter your course name: ")
+roll_no = input("Enter your Roll no: ")
+stream = input("Enter your stream: ")
+print(f"Good evening everyone,myself {name}.I am pursuing {stream} in {clg}.I have enrolled for {course}.My Roll no. is {roll_no}")
